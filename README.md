@@ -1,2 +1,2 @@
 #maxheaptree {Result image}
-![.](./image.png)
+![.](./result.png)
